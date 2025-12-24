@@ -24,5 +24,7 @@ Source: Kaggle – Walmart Store Sales Dataset
 - Screenshots: Dashboard visuals
 - Documentation: Business insights report
 
+Note: Power BI (.pbix) file can be downloaded and opened using Power BI Desktop.
+
 ## Author
 Durga Madhuri Vasamsetti
