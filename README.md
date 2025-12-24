@@ -25,5 +25,4 @@ Source: Kaggle – Walmart Store Sales Dataset
 - Documentation: Business insights report
 
 ## Author
-Your Name
 Durga Madhuri Vasamsetti
